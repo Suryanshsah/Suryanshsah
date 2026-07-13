@@ -13,4 +13,6 @@
 
 
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Suryanshsah/Suryanshsah/output/github-snake-dark.svg" alt="snake gif" />
+</div>
